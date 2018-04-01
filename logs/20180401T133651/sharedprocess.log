@@ -1,0 +1,52 @@
+[2018-04-01 13:36:52.477] [sharedprocess] [info] main {"machineId":"fba60a6f03b62f661d047839410f71d3236e7917f365cdb85dac48f27fb6bc38"}
+[2018-04-01 13:36:52.537] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 13:36:52.606] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-01 13:36:54.879] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 13:36:54.880] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 13:36:54.890] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 13:36:55.020] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-01 13:36:55.022] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-01 13:36:57.338] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 13:37:32.485] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-04-01 13:41:57.468] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 13:46:57.501] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 13:51:57.530] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 13:56:57.578] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 14:01:57.609] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 14:06:57.677] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 14:11:57.695] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 14:16:57.751] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 14:21:57.772] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 14:26:57.849] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 14:31:57.857] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 14:36:58.205] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 14:41:58.256] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 14:46:58.421] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 14:51:58.449] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 14:56:58.482] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 15:01:58.589] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 15:06:58.631] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 15:11:28.657] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 15:11:28.690] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 15:11:28.690] [sharedprocess] [info] Scanned user extensions: 4
+[2018-04-01 15:11:28.949] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-01 15:11:28.951] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-01 15:11:42.050] [sharedprocess] [info] Installing extension: ReactSnippets
+[2018-04-01 15:11:43.535] [sharedprocess] [info] Downloaded extension: ReactSnippets
+[2018-04-01 15:11:43.826] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/xabikos.reactsnippets-2.0.0: xabikos.reactsnippets-2.0.0
+[2018-04-01 15:11:43.837] [sharedprocess] [info] Updated metadata of the extension: xabikos.reactsnippets-2.0.0
+[2018-04-01 15:11:43.839] [sharedprocess] [info] Extensions installed successfully: xabikos.reactsnippets
+[2018-04-01 15:11:44.033] [sharedprocess] [info] Scanned user extensions: 5
+[2018-04-01 15:11:44.128] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-01 15:11:58.785] [sharedprocess] [info] Scanned user extensions: 5
+[2018-04-01 15:11:58.788] [sharedprocess] [info] Scanned user extensions: 5
+[2018-04-01 15:11:58.796] [sharedprocess] [info] Scanned user extensions: 5
+[2018-04-01 15:11:58.842] [sharedprocess] [info] Scanned user extensions: 5
+[2018-04-01 15:11:58.847] [sharedprocess] [info] Scanned user extensions: 5
+[2018-04-01 15:11:58.978] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-01 15:11:58.981] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-01 15:11:58.989] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-01 15:12:02.207] [sharedprocess] [info] Scanned user extensions: 5
+[2018-04-01 15:17:02.284] [sharedprocess] [info] Scanned user extensions: 5
+[2018-04-01 15:22:02.322] [sharedprocess] [info] Scanned user extensions: 5
+[2018-04-01 15:27:02.344] [sharedprocess] [info] Scanned user extensions: 5
