@@ -1,0 +1,25 @@
+[2018-04-02 14:35:10.535] [sharedprocess] [info] main {"machineId":"fba60a6f03b62f661d047839410f71d3236e7917f365cdb85dac48f27fb6bc38"}
+[2018-04-02 14:35:10.635] [sharedprocess] [info] Scanned user extensions: 7
+[2018-04-02 14:35:10.700] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-02 14:35:12.786] [sharedprocess] [info] Scanned user extensions: 7
+[2018-04-02 14:35:12.794] [sharedprocess] [info] Scanned user extensions: 7
+[2018-04-02 14:35:12.806] [sharedprocess] [info] Scanned user extensions: 7
+[2018-04-02 14:35:12.883] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-02 14:35:12.891] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-02 14:35:14.745] [sharedprocess] [info] Installing extension: Angular-BeastCode
+[2018-04-02 14:35:14.754] [sharedprocess] [info] Installing extension: python
+[2018-04-02 14:35:15.355] [sharedprocess] [info] Scanned user extensions: 7
+[2018-04-02 14:35:16.928] [sharedprocess] [info] Downloaded extension: Angular-BeastCode
+[2018-04-02 14:35:17.054] [sharedprocess] [info] Extracted extension to /home/odina/.vscode/extensions/Mikael.angular-beastcode-6.0.2: Mikael.angular-beastcode-6.0.2
+[2018-04-02 14:35:17.082] [sharedprocess] [info] Updated metadata of the extension: Mikael.angular-beastcode-6.0.2
+[2018-04-02 14:35:17.082] [sharedprocess] [info] Extensions installed successfully: Mikael.angular-beastcode
+[2018-04-02 14:35:17.205] [sharedprocess] [info] Scanned user extensions: 7
+[2018-04-02 14:35:17.252] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-02 14:35:18.460] [sharedprocess] [info] Downloaded extension: python
+[2018-04-02 14:35:22.726] [sharedprocess] [info] Extracted extension to /home/odina/.vscode/extensions/ms-python.python-2018.3.1: ms-python.python-2018.3.1
+[2018-04-02 14:35:22.746] [sharedprocess] [info] Updated metadata of the extension: ms-python.python-2018.3.1
+[2018-04-02 14:35:22.746] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2018-04-02 14:35:22.882] [sharedprocess] [info] Scanned user extensions: 7
+[2018-04-02 14:35:22.894] [sharedprocess] [info] Scanned user extensions: 7
+[2018-04-02 14:35:22.944] [sharedprocess] [info] Scanned system extensions: 65
+[2018-04-02 14:35:22.949] [sharedprocess] [info] Scanned system extensions: 65

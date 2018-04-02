@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import {fetchdata} from "./action";
-import { Page, Toolbar, Button,Card } from 'react-onsenui';
+import { Page, Toolbar, Button,Card,ProgressCircular } from 'react-onsenui';
 import Zoom from 'react-reveal/Zoom';
 
 
@@ -20,7 +20,6 @@ this.props.store.subscribe(() => {
   console.log(this.props.store.getState())
   this.setState({albums:this.props.store.getState().albums,loading:false})
 });
-
 
 }
  
@@ -99,10 +98,13 @@ this.state.albums.slice(0,this.state.load).map((item)=> {
    </Zoom>
   )
 
+
+
 })
 
      } </ul> 
 
+<ProgressCircular indeterminate />
        
        </div>
 );
