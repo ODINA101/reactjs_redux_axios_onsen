@@ -1,1 +1,10 @@
 [2018-04-02 15:06:30.098] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-04-02 15:14:48.365] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-04-02 15:14:49.464] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-04-02 15:19:51.753] [renderer1] [error] Cannot read property 'match' of undefined: TypeError: Cannot read property 'match' of undefined
+	at new MyCompletionItem (/usr/share/code/resources/app/extensions/typescript/out/features/completionItemProvider.js:54:34)
+	at TypeScriptCompletionItemProvider.provideCompletionItems (/usr/share/code/resources/app/extensions/typescript/out/features/completionItemProvider.js:232:26)
+	at <anonymous>
+[2018-04-02 15:20:08.038] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-04-02 15:20:33.645] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-04-02 15:22:15.582] [renderer1] [error] An unknown error occurred. Please consult the log for more details.

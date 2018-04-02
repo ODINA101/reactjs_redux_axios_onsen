@@ -3,6 +3,7 @@
     "openedPathsList": {
         "workspaces": [
             "/home/odina/Desktop/reactjs_redux_axios_onsen",
+            "/home/odina/Desktop/reactjs_redux_axios_onsen",
             "/home/odina/Desktop/react practive/day2"
         ],
         "files": []
@@ -454,14 +455,14 @@
     "windowsState": {
         "openedWindows": [],
         "lastActiveWindow": {
-            "folderPath": "/home/odina/Desktop/react practive/day2",
-            "backupPath": "/home/odina/Desktop/react practive/day2/Backups/9f15a301a96a8700d9c4864648a8eb42",
+            "folderPath": "/home/odina/Desktop/reactjs_redux_axios_onsen",
+            "backupPath": "/home/odina/Desktop/reactjs_redux_axios_onsen/Backups/d2deff0086d94daae47721bef496d494",
             "uiState": {
-                "mode": 0,
-                "x": 0,
-                "y": 26,
-                "width": 1366,
-                "height": 718
+                "mode": 1,
+                "x": 458,
+                "y": 72,
+                "width": 1024,
+                "height": 714
             }
         }
     }

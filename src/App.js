@@ -3,7 +3,7 @@ import './App.css';
 import {fetchdata} from "./action";
 import { Page, Toolbar, Button,Card,ProgressCircular } from 'react-onsenui';
 import Zoom from 'react-reveal/Zoom';
-
+import Modal from 'react-responsive-modal';
 
 
 class App extends Component {
@@ -13,7 +13,9 @@ constructor(props) {
 this.state = {
   albums:[],
   loading:true,
-  load:5 
+  load:5,
+  open:false,
+  img:""
 }
 this.handleScroll = this.handleScroll.bind(this);
 this.props.store.subscribe(() => {
@@ -69,8 +71,16 @@ preloader() {
 
 
 
+onOpenModal = (data) => {
+  this.setState({ open: true,img:data});
+};
+
+onCloseModal = () => {
+  this.setState({ open: false });
+};
 
   render() {
+    const { open } = this.state;
 if(this.state.loading) {
       return (
       <div className="App">
@@ -89,7 +99,7 @@ this.state.albums.slice(0,this.state.load).map((item)=> {
  
   return (
     <Zoom>
-  <li>  <Card style={{width:"300px",height:"350px"}}>
+  <li>  <Card onClick={()=>this.onOpenModal(item.url)} style={{width:"300px",height:"350px"}}>
     <img className="photos" style={{width:"100%",marginTop:"0px"}} src={item.url} />
 
    <p style={{fontSize:"15px"}}>{item.title}</p>
@@ -103,7 +113,12 @@ this.state.albums.slice(0,this.state.load).map((item)=> {
 })
 
      } </ul> 
-
+     <Zoom>
+ <Modal open={open} onClose={this.onCloseModal} little>
+    <img className="photos" style={{width:"100%",marginTop:"0px"}} src={this.state.img} />
+          <h2>Simple centered modal</h2>
+        </Modal>
+        </Zoom>
 <ProgressCircular indeterminate />
        
        </div>
